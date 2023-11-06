@@ -87,3 +87,8 @@ The footer includes a copyright notice and acknowledges the website creators.
 - JavaScript
 
 Feel free to explore the website and use the provided resources to enhance your artistic journey!
+
+
+Here's a sneak peek!
+
+![Captura de ecrã 2023-11-06 232717](https://github.com/guilhermeSilva96/Hackaton/assets/139381851/3cedabe5-f690-4610-a960-8f7d2f1cfed3)
